@@ -1,7 +1,6 @@
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using PropVivo.Application.Common.Base;
-using PropVivo.Application.Dto.Common;
 using PropVivo.Application.Dto.Dashboard;
 using PropVivo.Application.Features.Dashboard.GetDashboard;
 

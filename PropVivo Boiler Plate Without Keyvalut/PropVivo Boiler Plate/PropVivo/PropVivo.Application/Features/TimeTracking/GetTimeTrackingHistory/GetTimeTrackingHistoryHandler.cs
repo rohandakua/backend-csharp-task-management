@@ -4,8 +4,8 @@ using PropVivo.Application.Common.Base;
 using PropVivo.Application.Dto.TimeTracking;
 using PropVivo.Application.Repositories;
 using PropVivo.Domain.Entities.Task;
-using PropVivo.Domain.Entities.TimeTracking;
 using System.Net;
+using TimeTrackingEntity = PropVivo.Domain.Entities.TimeTracking.TimeTracking;
 
 namespace PropVivo.Application.Features.TimeTracking.GetTimeTrackingHistory
 {
@@ -30,7 +30,7 @@ namespace PropVivo.Application.Features.TimeTracking.GetTimeTrackingHistory
 
             var timeTrackingResponses = new List<TimeTrackingResponse>();
 
-            foreach (PropVivo.Domain.Entities.TimeTracking.TimeTracking timeTracking in timeTrackingHistory)
+            foreach (TimeTrackingEntity timeTracking in timeTrackingHistory)
             {
                 var task = await _taskRepository.GetByIdAsync(timeTracking.TaskId);
 

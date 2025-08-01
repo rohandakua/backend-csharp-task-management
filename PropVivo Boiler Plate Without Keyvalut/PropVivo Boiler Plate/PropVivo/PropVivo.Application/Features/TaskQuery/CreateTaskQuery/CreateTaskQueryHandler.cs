@@ -5,9 +5,9 @@ using PropVivo.Application.Common.Exceptions;
 using PropVivo.Application.Dto.TaskQuery;
 using PropVivo.Application.Repositories;
 using PropVivo.Domain.Entities.Task;
-using PropVivo.Domain.Entities.TaskQuery;
 using PropVivo.Domain.Enums;
 using System.Net;
+using TaskQueryEntity = PropVivo.Domain.Entities.TaskQuery.TaskQuery;
 
 namespace PropVivo.Application.Features.TaskQuery.CreateTaskQuery
 {
@@ -48,7 +48,7 @@ namespace PropVivo.Application.Features.TaskQuery.CreateTaskQuery
             if (task.AssignedToId != request.RaisedById)
                 throw new BadRequestException("You can only create queries for tasks assigned to you");
 
-            var taskQuery = new TaskQuery
+            var taskQuery = new TaskQueryEntity
             {
                 TaskId = request.TaskId,
                 RaisedById = request.RaisedById,

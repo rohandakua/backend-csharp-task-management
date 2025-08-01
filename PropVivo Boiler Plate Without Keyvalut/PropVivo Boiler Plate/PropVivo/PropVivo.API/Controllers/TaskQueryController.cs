@@ -1,6 +1,5 @@
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using PropVivo.Application.Dto.Common;
 using PropVivo.Application.Dto.TaskQuery;
 using PropVivo.Application.Features.TaskQuery.CreateTaskQuery;
 using PropVivo.Application.Features.TaskQuery.GetAllTaskQueries;
@@ -99,9 +98,14 @@ namespace PropVivo.API.Controllers
         [HttpGet("stats")]
         public async Task<ActionResult<BaseResponse<QueryStatsResponse>>> GetQueryStats()
         {
-            var query = new GetQueryStatsQuery { UserId = GetCurrentUserId() };
-            var result = await Mediator.Send(query);
-            return Ok(result);
+            // TODO: Implement query stats feature
+            var response = new BaseResponse<QueryStatsResponse>
+            {
+                Data = new QueryStatsResponse(),
+                Success = true,
+                Message = "Query stats feature not yet implemented"
+            };
+            return Ok(response);
         }
     }
 } 

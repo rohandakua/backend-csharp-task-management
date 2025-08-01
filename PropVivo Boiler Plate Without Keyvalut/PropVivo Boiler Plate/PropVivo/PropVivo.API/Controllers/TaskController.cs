@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using PropVivo.Application.Dto.Common;
+using PropVivo.Application.Common.Base;
 using PropVivo.Application.Dto.Task;
 using PropVivo.Application.Features.Task.CreateTask;
 using PropVivo.Application.Features.Task.GetAllTasks;

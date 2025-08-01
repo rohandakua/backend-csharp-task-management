@@ -4,8 +4,8 @@ using PropVivo.Application.Common.Base;
 using PropVivo.Application.Dto.TaskQuery;
 using PropVivo.Application.Repositories;
 using PropVivo.Domain.Entities.Task;
-using PropVivo.Domain.Entities.TaskQuery;
 using System.Net;
+using TaskQueryEntity = PropVivo.Domain.Entities.TaskQuery.TaskQuery;
 
 namespace PropVivo.Application.Features.TaskQuery.GetAllTaskQueries
 {
@@ -32,7 +32,7 @@ namespace PropVivo.Application.Features.TaskQuery.GetAllTaskQueries
         {
             var response = new BaseResponse<List<TaskQueryResponse>>();
 
-            List<TaskQuery> taskQueries;
+            List<TaskQueryEntity> taskQueries;
 
             if (!string.IsNullOrEmpty(request.TaskId))
             {
