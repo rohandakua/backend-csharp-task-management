@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using PropVivo.Application.Dto.Common;
+using PropVivo.Application.Dto.Break;
 using PropVivo.Application.Features.Break.StartBreak;
 using PropVivo.Application.Features.Break.EndBreak;
 using PropVivo.Application.Features.Break.GetBreakHistory;

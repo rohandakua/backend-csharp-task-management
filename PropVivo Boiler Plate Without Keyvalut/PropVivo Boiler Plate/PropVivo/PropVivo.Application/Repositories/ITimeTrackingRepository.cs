@@ -18,5 +18,6 @@ namespace PropVivo.Application.Repositories
         Task<bool> HasActiveTrackingAsync(string userId);
         Task<decimal> GetTotalHoursByUserIdAndDateAsync(string userId, DateTime date);
         Task<decimal> GetTotalHoursByUserIdAndDateRangeAsync(string userId, DateTime startDate, DateTime endDate);
+        Task<List<TimeTracking>> GetByUserIdAndDateRangeAsync(string userId, DateTime startDate, DateTime endDate);
     }
 } 

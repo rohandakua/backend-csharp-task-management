@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using PropVivo.Application.Dto.Common;
+using PropVivo.Application.Common.Base;
 using PropVivo.Application.Dto.TimeTracking;
 using PropVivo.Application.Features.TimeTracking.StartTimeTracking;
 using PropVivo.Application.Features.TimeTracking.StopTimeTracking;

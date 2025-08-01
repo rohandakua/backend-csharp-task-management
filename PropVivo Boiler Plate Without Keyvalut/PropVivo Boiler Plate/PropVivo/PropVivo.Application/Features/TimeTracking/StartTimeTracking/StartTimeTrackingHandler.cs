@@ -5,9 +5,9 @@ using PropVivo.Application.Common.Exceptions;
 using PropVivo.Application.Dto.TimeTracking;
 using PropVivo.Application.Repositories;
 using PropVivo.Domain.Entities.Task;
-using PropVivo.Domain.Entities.TimeTracking;
 using PropVivo.Domain.Enums;
 using System.Net;
+using TimeTrackingEntity = PropVivo.Domain.Entities.TimeTracking.TimeTracking;
 
 namespace PropVivo.Application.Features.TimeTracking.StartTimeTracking
 {
@@ -41,7 +41,7 @@ namespace PropVivo.Application.Features.TimeTracking.StartTimeTracking
             if (hasActiveTracking)
                 throw new BadRequestException("You already have active time tracking. Please stop the current session first");
 
-            var timeTracking = new TimeTracking
+            var timeTracking = new TimeTrackingEntity
             {
                 UserId = request.UserId,
                 TaskId = request.TaskId,
