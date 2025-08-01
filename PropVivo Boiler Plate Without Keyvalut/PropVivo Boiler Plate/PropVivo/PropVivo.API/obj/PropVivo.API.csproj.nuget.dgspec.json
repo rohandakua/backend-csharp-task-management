@@ -1,0 +1,394 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ROHAN\\Downloads\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.API\\PropVivo.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ROHAN\\Downloads\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.API\\PropVivo.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ROHAN\\Downloads\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.API\\PropVivo.API.csproj",
+        "projectName": "PropVivo.API",
+        "projectPath": "C:\\Users\\ROHAN\\Downloads\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.API\\PropVivo.API.csproj",
+        "packagesPath": "C:\\Users\\ROHAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ROHAN\\Downloads\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ROHAN\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\ROHAN\\Downloads\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Application\\PropVivo.Application.csproj": {
+                "projectPath": "C:\\Users\\ROHAN\\Downloads\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Application\\PropVivo.Application.csproj"
+              },
+              "C:\\Users\\ROHAN\\Downloads\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.AzureStorage\\PropVivo.AzureStorage.csproj": {
+                "projectPath": "C:\\Users\\ROHAN\\Downloads\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.AzureStorage\\PropVivo.AzureStorage.csproj"
+              },
+              "C:\\Users\\ROHAN\\Downloads\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Infrastructure\\PropVivo.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\ROHAN\\Downloads\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Infrastructure\\PropVivo.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Asp.Versioning.Mvc": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[8.13.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.13.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ROHAN\\Downloads\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Application\\PropVivo.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ROHAN\\Downloads\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Application\\PropVivo.Application.csproj",
+        "projectName": "PropVivo.Application",
+        "projectPath": "C:\\Users\\ROHAN\\Downloads\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Application\\PropVivo.Application.csproj",
+        "packagesPath": "C:\\Users\\ROHAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ROHAN\\Downloads\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ROHAN\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\ROHAN\\Downloads\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Domain\\PropVivo.Domain.csproj": {
+                "projectPath": "C:\\Users\\ROHAN\\Downloads\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Domain\\PropVivo.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.3.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.34.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ROHAN\\Downloads\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.AzureStorage\\PropVivo.AzureStorage.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ROHAN\\Downloads\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.AzureStorage\\PropVivo.AzureStorage.csproj",
+        "projectName": "PropVivo.AzureStorage",
+        "projectPath": "C:\\Users\\ROHAN\\Downloads\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.AzureStorage\\PropVivo.AzureStorage.csproj",
+        "packagesPath": "C:\\Users\\ROHAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ROHAN\\Downloads\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.AzureStorage\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ROHAN\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\ROHAN\\Downloads\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Application\\PropVivo.Application.csproj": {
+                "projectPath": "C:\\Users\\ROHAN\\Downloads\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Application\\PropVivo.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Azure.Storage.Blobs": {
+              "target": "Package",
+              "version": "[12.20.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ROHAN\\Downloads\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Domain\\PropVivo.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ROHAN\\Downloads\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Domain\\PropVivo.Domain.csproj",
+        "projectName": "PropVivo.Domain",
+        "projectPath": "C:\\Users\\ROHAN\\Downloads\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Domain\\PropVivo.Domain.csproj",
+        "packagesPath": "C:\\Users\\ROHAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ROHAN\\Downloads\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ROHAN\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ROHAN\\Downloads\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Infrastructure\\PropVivo.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ROHAN\\Downloads\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Infrastructure\\PropVivo.Infrastructure.csproj",
+        "projectName": "PropVivo.Infrastructure",
+        "projectPath": "C:\\Users\\ROHAN\\Downloads\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Infrastructure\\PropVivo.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\ROHAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ROHAN\\Downloads\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ROHAN\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\ROHAN\\Downloads\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Application\\PropVivo.Application.csproj": {
+                "projectPath": "C:\\Users\\ROHAN\\Downloads\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Application\\PropVivo.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            },
+            "Microsoft.Azure.Cosmos": {
+              "target": "Package",
+              "version": "[3.40.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
