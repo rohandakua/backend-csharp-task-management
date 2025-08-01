@@ -48,7 +48,7 @@ namespace PropVivo.Application.Features.TaskQuery.CreateTaskQuery
             if (task.AssignedToId != request.RaisedById)
                 throw new BadRequestException("You can only create queries for tasks assigned to you");
 
-            var taskQuery = new TaskQuery
+            var taskQuery = new PropVivo.Domain.Entities.TaskQuery.TaskQuery
             {
                 TaskId = request.TaskId,
                 RaisedById = request.RaisedById,

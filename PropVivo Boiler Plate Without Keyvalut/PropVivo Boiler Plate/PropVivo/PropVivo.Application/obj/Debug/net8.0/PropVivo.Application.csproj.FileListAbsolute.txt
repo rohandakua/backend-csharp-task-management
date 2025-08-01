@@ -1,30 +1,46 @@
-D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.Application\bin\Debug\net8.0\PropVivo.Application.deps.json
-D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.Application\bin\Debug\net8.0\PropVivo.Application.dll
-D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.Application\bin\Debug\net8.0\PropVivo.Application.pdb
-D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.Application\bin\Debug\net8.0\PropVivo.Domain.dll
-D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.Application\bin\Debug\net8.0\PropVivo.Domain.pdb
-D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.Application\obj\Debug\net8.0\PropVivo.Application.csproj.AssemblyReference.cache
-D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.Application\obj\Debug\net8.0\PropVivo.Application.GeneratedMSBuildEditorConfig.editorconfig
-D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.Application\obj\Debug\net8.0\PropVivo.Application.AssemblyInfoInputs.cache
-D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.Application\obj\Debug\net8.0\PropVivo.Application.AssemblyInfo.cs
-D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.Application\obj\Debug\net8.0\PropVivo.Application.csproj.CoreCompileInputs.cache
-D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.Application\obj\Debug\net8.0\PropVivo.0E36EBCA.Up2Date
-D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.Application\obj\Debug\net8.0\PropVivo.Application.dll
-D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.Application\obj\Debug\net8.0\refint\PropVivo.Application.dll
-D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.Application\obj\Debug\net8.0\PropVivo.Application.pdb
-D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.Application\obj\Debug\net8.0\ref\PropVivo.Application.dll
-C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.Application\bin\Debug\net8.0\PropVivo.Application.deps.json
-C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.Application\bin\Debug\net8.0\PropVivo.Application.dll
-C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.Application\bin\Debug\net8.0\PropVivo.Application.pdb
-C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.Application\bin\Debug\net8.0\PropVivo.Domain.dll
-C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.Application\bin\Debug\net8.0\PropVivo.Domain.pdb
-C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.Application\obj\Debug\net8.0\PropVivo.Application.csproj.AssemblyReference.cache
-C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.Application\obj\Debug\net8.0\PropVivo.Application.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.Application\obj\Debug\net8.0\PropVivo.Application.AssemblyInfoInputs.cache
-C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.Application\obj\Debug\net8.0\PropVivo.Application.AssemblyInfo.cs
-C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.Application\obj\Debug\net8.0\PropVivo.Application.csproj.CoreCompileInputs.cache
-C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.Application\obj\Debug\net8.0\PropVivo.0E36EBCA.Up2Date
-C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.Application\obj\Debug\net8.0\PropVivo.Application.dll
-C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.Application\obj\Debug\net8.0\refint\PropVivo.Application.dll
-C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.Application\obj\Debug\net8.0\PropVivo.Application.pdb
-C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.Application\obj\Debug\net8.0\ref\PropVivo.Application.dll
+D:/PropVivo/Net 8/PropVivo Boiler Plate/PropVivo/PropVivo.Application/bin/Debug/net8.0/PropVivo.Application.deps.json
+D:/PropVivo/Net 8/PropVivo Boiler Plate/PropVivo/PropVivo.Application/bin/Debug/net8.0/PropVivo.Application.dll
+D:/PropVivo/Net 8/PropVivo Boiler Plate/PropVivo/PropVivo.Application/bin/Debug/net8.0/PropVivo.Application.pdb
+D:/PropVivo/Net 8/PropVivo Boiler Plate/PropVivo/PropVivo.Application/bin/Debug/net8.0/PropVivo.Domain.dll
+D:/PropVivo/Net 8/PropVivo Boiler Plate/PropVivo/PropVivo.Application/bin/Debug/net8.0/PropVivo.Domain.pdb
+D:/PropVivo/Net 8/PropVivo Boiler Plate/PropVivo/PropVivo.Application/obj/Debug/net8.0/PropVivo.Application.csproj.AssemblyReference.cache
+D:/PropVivo/Net 8/PropVivo Boiler Plate/PropVivo/PropVivo.Application/obj/Debug/net8.0/PropVivo.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:/PropVivo/Net 8/PropVivo Boiler Plate/PropVivo/PropVivo.Application/obj/Debug/net8.0/PropVivo.Application.AssemblyInfoInputs.cache
+D:/PropVivo/Net 8/PropVivo Boiler Plate/PropVivo/PropVivo.Application/obj/Debug/net8.0/PropVivo.Application.AssemblyInfo.cs
+D:/PropVivo/Net 8/PropVivo Boiler Plate/PropVivo/PropVivo.Application/obj/Debug/net8.0/PropVivo.Application.csproj.CoreCompileInputs.cache
+D:/PropVivo/Net 8/PropVivo Boiler Plate/PropVivo/PropVivo.Application/obj/Debug/net8.0/PropVivo.0E36EBCA.Up2Date
+D:/PropVivo/Net 8/PropVivo Boiler Plate/PropVivo/PropVivo.Application/obj/Debug/net8.0/PropVivo.Application.dll
+D:/PropVivo/Net 8/PropVivo Boiler Plate/PropVivo/PropVivo.Application/obj/Debug/net8.0/refint/PropVivo.Application.dll
+D:/PropVivo/Net 8/PropVivo Boiler Plate/PropVivo/PropVivo.Application/obj/Debug/net8.0/PropVivo.Application.pdb
+D:/PropVivo/Net 8/PropVivo Boiler Plate/PropVivo/PropVivo.Application/obj/Debug/net8.0/ref/PropVivo.Application.dll
+C:/Users/propvivo/Downloads/PropVivo Boiler Plate/PropVivo Boiler Plate/PropVivo/PropVivo.Application/bin/Debug/net8.0/PropVivo.Application.deps.json
+C:/Users/propvivo/Downloads/PropVivo Boiler Plate/PropVivo Boiler Plate/PropVivo/PropVivo.Application/bin/Debug/net8.0/PropVivo.Application.dll
+C:/Users/propvivo/Downloads/PropVivo Boiler Plate/PropVivo Boiler Plate/PropVivo/PropVivo.Application/bin/Debug/net8.0/PropVivo.Application.pdb
+C:/Users/propvivo/Downloads/PropVivo Boiler Plate/PropVivo Boiler Plate/PropVivo/PropVivo.Application/bin/Debug/net8.0/PropVivo.Domain.dll
+C:/Users/propvivo/Downloads/PropVivo Boiler Plate/PropVivo Boiler Plate/PropVivo/PropVivo.Application/bin/Debug/net8.0/PropVivo.Domain.pdb
+C:/Users/propvivo/Downloads/PropVivo Boiler Plate/PropVivo Boiler Plate/PropVivo/PropVivo.Application/obj/Debug/net8.0/PropVivo.Application.csproj.AssemblyReference.cache
+C:/Users/propvivo/Downloads/PropVivo Boiler Plate/PropVivo Boiler Plate/PropVivo/PropVivo.Application/obj/Debug/net8.0/PropVivo.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/propvivo/Downloads/PropVivo Boiler Plate/PropVivo Boiler Plate/PropVivo/PropVivo.Application/obj/Debug/net8.0/PropVivo.Application.AssemblyInfoInputs.cache
+C:/Users/propvivo/Downloads/PropVivo Boiler Plate/PropVivo Boiler Plate/PropVivo/PropVivo.Application/obj/Debug/net8.0/PropVivo.Application.AssemblyInfo.cs
+C:/Users/propvivo/Downloads/PropVivo Boiler Plate/PropVivo Boiler Plate/PropVivo/PropVivo.Application/obj/Debug/net8.0/PropVivo.Application.csproj.CoreCompileInputs.cache
+C:/Users/propvivo/Downloads/PropVivo Boiler Plate/PropVivo Boiler Plate/PropVivo/PropVivo.Application/obj/Debug/net8.0/PropVivo.0E36EBCA.Up2Date
+C:/Users/propvivo/Downloads/PropVivo Boiler Plate/PropVivo Boiler Plate/PropVivo/PropVivo.Application/obj/Debug/net8.0/PropVivo.Application.dll
+C:/Users/propvivo/Downloads/PropVivo Boiler Plate/PropVivo Boiler Plate/PropVivo/PropVivo.Application/obj/Debug/net8.0/refint/PropVivo.Application.dll
+C:/Users/propvivo/Downloads/PropVivo Boiler Plate/PropVivo Boiler Plate/PropVivo/PropVivo.Application/obj/Debug/net8.0/PropVivo.Application.pdb
+C:/Users/propvivo/Downloads/PropVivo Boiler Plate/PropVivo Boiler Plate/PropVivo/PropVivo.Application/obj/Debug/net8.0/ref/PropVivo.Application.dll
+/workspace/PropVivo Boiler Plate Without Keyvalut/PropVivo Boiler Plate/PropVivo/PropVivo.Application/obj/Debug/net8.0/PropVivo.Application.csproj.AssemblyReference.cache
+/workspace/PropVivo Boiler Plate Without Keyvalut/PropVivo Boiler Plate/PropVivo/PropVivo.Application/obj/Debug/net8.0/PropVivo.Application.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/PropVivo Boiler Plate Without Keyvalut/PropVivo Boiler Plate/PropVivo/PropVivo.Application/obj/Debug/net8.0/PropVivo.Application.AssemblyInfoInputs.cache
+/workspace/PropVivo Boiler Plate Without Keyvalut/PropVivo Boiler Plate/PropVivo/PropVivo.Application/obj/Debug/net8.0/PropVivo.Application.AssemblyInfo.cs
+/workspace/PropVivo Boiler Plate Without Keyvalut/PropVivo Boiler Plate/PropVivo/PropVivo.Application/obj/Debug/net8.0/PropVivo.Application.csproj.CoreCompileInputs.cache
+/workspace/PropVivo Boiler Plate Without Keyvalut/PropVivo Boiler Plate/PropVivo/PropVivo.Application/obj/Debug/net8.0/PropVivo.Application.sourcelink.json
+/workspace/PropVivo Boiler Plate Without Keyvalut/PropVivo Boiler Plate/PropVivo/PropVivo.Application/bin/Debug/net8.0/PropVivo.Application.deps.json
+/workspace/PropVivo Boiler Plate Without Keyvalut/PropVivo Boiler Plate/PropVivo/PropVivo.Application/bin/Debug/net8.0/PropVivo.Application.dll
+/workspace/PropVivo Boiler Plate Without Keyvalut/PropVivo Boiler Plate/PropVivo/PropVivo.Application/bin/Debug/net8.0/PropVivo.Application.pdb
+/workspace/PropVivo Boiler Plate Without Keyvalut/PropVivo Boiler Plate/PropVivo/PropVivo.Application/bin/Debug/net8.0/PropVivo.Domain.dll
+/workspace/PropVivo Boiler Plate Without Keyvalut/PropVivo Boiler Plate/PropVivo/PropVivo.Application/bin/Debug/net8.0/PropVivo.Domain.pdb
+/workspace/PropVivo Boiler Plate Without Keyvalut/PropVivo Boiler Plate/PropVivo/PropVivo.Application/obj/Debug/net8.0/PropVivo.0E36EBCA.Up2Date
+/workspace/PropVivo Boiler Plate Without Keyvalut/PropVivo Boiler Plate/PropVivo/PropVivo.Application/obj/Debug/net8.0/PropVivo.Application.dll
+/workspace/PropVivo Boiler Plate Without Keyvalut/PropVivo Boiler Plate/PropVivo/PropVivo.Application/obj/Debug/net8.0/refint/PropVivo.Application.dll
+/workspace/PropVivo Boiler Plate Without Keyvalut/PropVivo Boiler Plate/PropVivo/PropVivo.Application/obj/Debug/net8.0/PropVivo.Application.pdb
+/workspace/PropVivo Boiler Plate Without Keyvalut/PropVivo Boiler Plate/PropVivo/PropVivo.Application/obj/Debug/net8.0/ref/PropVivo.Application.dll

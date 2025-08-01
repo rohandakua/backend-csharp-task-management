@@ -41,7 +41,7 @@ namespace PropVivo.Application.Features.TimeTracking.StartTimeTracking
             if (hasActiveTracking)
                 throw new BadRequestException("You already have active time tracking. Please stop the current session first");
 
-            var timeTracking = new TimeTracking
+            var timeTracking = new PropVivo.Domain.Entities.TimeTracking.TimeTracking
             {
                 UserId = request.UserId,
                 TaskId = request.TaskId,
