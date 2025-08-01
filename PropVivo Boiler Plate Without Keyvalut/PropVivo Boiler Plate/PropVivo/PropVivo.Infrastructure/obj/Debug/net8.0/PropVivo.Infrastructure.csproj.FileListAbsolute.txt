@@ -60,8 +60,8 @@ C:/Users/propvivo/Downloads/PropVivo Boiler Plate/PropVivo Boiler Plate/PropVivo
 /workspace/PropVivo Boiler Plate Without Keyvalut/PropVivo Boiler Plate/PropVivo/PropVivo.Infrastructure/obj/Debug/net8.0/PropVivo.Infrastructure.AssemblyInfo.cs
 /workspace/PropVivo Boiler Plate Without Keyvalut/PropVivo Boiler Plate/PropVivo/PropVivo.Infrastructure/obj/Debug/net8.0/PropVivo.Infrastructure.csproj.CoreCompileInputs.cache
 /workspace/PropVivo Boiler Plate Without Keyvalut/PropVivo Boiler Plate/PropVivo/PropVivo.Infrastructure/obj/Debug/net8.0/PropVivo.Infrastructure.sourcelink.json
-/workspace/PropVivo Boiler Plate Without Keyvalut/PropVivo Boiler Plate/PropVivo/PropVivo.Infrastructure/obj/Debug/net8.0/PropVivo.Infrastructure.csproj.CopyComplete
 /workspace/PropVivo Boiler Plate Without Keyvalut/PropVivo Boiler Plate/PropVivo/PropVivo.Infrastructure/obj/Debug/net8.0/PropVivo.Infrastructure.dll
 /workspace/PropVivo Boiler Plate Without Keyvalut/PropVivo Boiler Plate/PropVivo/PropVivo.Infrastructure/obj/Debug/net8.0/refint/PropVivo.Infrastructure.dll
 /workspace/PropVivo Boiler Plate Without Keyvalut/PropVivo Boiler Plate/PropVivo/PropVivo.Infrastructure/obj/Debug/net8.0/PropVivo.Infrastructure.pdb
 /workspace/PropVivo Boiler Plate Without Keyvalut/PropVivo Boiler Plate/PropVivo/PropVivo.Infrastructure/obj/Debug/net8.0/ref/PropVivo.Infrastructure.dll
+/workspace/PropVivo Boiler Plate Without Keyvalut/PropVivo Boiler Plate/PropVivo/PropVivo.Infrastructure/obj/Debug/net8.0/PropVivo.445C01E7.Up2Date

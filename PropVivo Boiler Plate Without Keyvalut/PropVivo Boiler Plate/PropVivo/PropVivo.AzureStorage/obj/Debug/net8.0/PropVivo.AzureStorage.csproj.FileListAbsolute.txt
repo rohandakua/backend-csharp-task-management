@@ -45,8 +45,8 @@ C:/Users/propvivo/Downloads/PropVivo Boiler Plate/PropVivo Boiler Plate/PropVivo
 /workspace/PropVivo Boiler Plate Without Keyvalut/PropVivo Boiler Plate/PropVivo/PropVivo.AzureStorage/obj/Debug/net8.0/PropVivo.AzureStorage.AssemblyInfo.cs
 /workspace/PropVivo Boiler Plate Without Keyvalut/PropVivo Boiler Plate/PropVivo/PropVivo.AzureStorage/obj/Debug/net8.0/PropVivo.AzureStorage.csproj.CoreCompileInputs.cache
 /workspace/PropVivo Boiler Plate Without Keyvalut/PropVivo Boiler Plate/PropVivo/PropVivo.AzureStorage/obj/Debug/net8.0/PropVivo.AzureStorage.sourcelink.json
-/workspace/PropVivo Boiler Plate Without Keyvalut/PropVivo Boiler Plate/PropVivo/PropVivo.AzureStorage/obj/Debug/net8.0/PropVivo.AzureStorage.csproj.CopyComplete
 /workspace/PropVivo Boiler Plate Without Keyvalut/PropVivo Boiler Plate/PropVivo/PropVivo.AzureStorage/obj/Debug/net8.0/PropVivo.AzureStorage.dll
 /workspace/PropVivo Boiler Plate Without Keyvalut/PropVivo Boiler Plate/PropVivo/PropVivo.AzureStorage/obj/Debug/net8.0/refint/PropVivo.AzureStorage.dll
 /workspace/PropVivo Boiler Plate Without Keyvalut/PropVivo Boiler Plate/PropVivo/PropVivo.AzureStorage/obj/Debug/net8.0/PropVivo.AzureStorage.pdb
 /workspace/PropVivo Boiler Plate Without Keyvalut/PropVivo Boiler Plate/PropVivo/PropVivo.AzureStorage/obj/Debug/net8.0/ref/PropVivo.AzureStorage.dll
+/workspace/PropVivo Boiler Plate Without Keyvalut/PropVivo Boiler Plate/PropVivo/PropVivo.AzureStorage/obj/Debug/net8.0/PropVivo.B2F0406B.Up2Date

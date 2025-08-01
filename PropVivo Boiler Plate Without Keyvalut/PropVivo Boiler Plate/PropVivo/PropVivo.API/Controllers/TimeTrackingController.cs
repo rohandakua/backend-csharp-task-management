@@ -8,6 +8,8 @@ using PropVivo.Application.Features.TimeTracking.PauseTimeTracking;
 using PropVivo.Application.Features.TimeTracking.ResumeTimeTracking;
 using PropVivo.Application.Features.TimeTracking.GetTimeTracking;
 using PropVivo.Application.Features.TimeTracking.GetTimeTrackingHistory;
+using PropVivo.Application.Features.TimeTracking.GetCurrentTimeTracking;
+using PropVivo.Application.Features.TimeTracking.GetTodayTimeTracking;
 
 namespace PropVivo.API.Controllers
 {
