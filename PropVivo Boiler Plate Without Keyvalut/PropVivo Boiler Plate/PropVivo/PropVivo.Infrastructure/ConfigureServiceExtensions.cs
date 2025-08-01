@@ -1,4 +1,4 @@
-﻿using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using PropVivo.Application.Repositories;
 using PropVivo.Domain.Enums;
@@ -26,6 +26,13 @@ namespace PropVivo.Infrastructure
             services.AddSingleton<DapperContext>();
             services.AddScoped<ISqlRepository, SqlRepository>();
             services.AddScoped<IRoleRepository, RoleRepository>();
+            
+            // Register missing repositories
+            services.AddScoped<ITimeTrackingRepository, TimeTrackingRepository>();
+            services.AddScoped<ITaskRepository, TaskRepository>();
+            services.AddScoped<IUserRepository, UserRepository>();
+            services.AddScoped<IBreakRepository, BreakRepository>();
+            services.AddScoped<ITaskQueryRepository, TaskQueryRepository>();
         }
     }
 }
