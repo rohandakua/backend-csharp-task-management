@@ -1,12 +1,14 @@
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using PropVivo.Application.Common.Base;
 using PropVivo.Application.Dto.TaskQuery;
 using PropVivo.Application.Features.TaskQuery.CreateTaskQuery;
 using PropVivo.Application.Features.TaskQuery.GetAllTaskQueries;
 using PropVivo.Application.Features.TaskQuery.GetTaskQueryById;
-using PropVivo.Application.Features.TaskQuery.UpdateTaskQuery;
 using PropVivo.Application.Features.TaskQuery.ResolveTaskQuery;
-using PropVivo.Application.Common.Base;
+using PropVivo.Application.Features.TaskQuery.UpdateTaskQuery;
+using PropVivo.Application.Features.TaskQuery.GetSuperiorTaskQueries;
+using PropVivo.Domain.Enums;
 
 namespace PropVivo.API.Controllers
 {
@@ -31,11 +33,24 @@ namespace PropVivo.API.Controllers
         [Authorize(Roles = "Superior,Admin")]
         public async Task<ActionResult<BaseResponse<List<TaskQueryResponse>>>> GetSuperiorTaskQueries([FromQuery] string? status = null, [FromQuery] string? priority = null)
         {
+            QueryStatus? parsedStatus = null;
+            QueryPriority? parsedPriority = null;
+
+            if (!string.IsNullOrEmpty(status) && Enum.TryParse<QueryStatus>(status, true, out var statusEnum))
+            {
+                parsedStatus = statusEnum;
+            }
+
+            if (!string.IsNullOrEmpty(priority) && Enum.TryParse<QueryPriority>(priority, true, out var priorityEnum))
+            {
+                parsedPriority = priorityEnum;
+            }
+
             var query = new GetSuperiorTaskQueriesQuery
             {
                 SuperiorId = GetCurrentUserId(),
-                Status = status,
-                Priority = priority
+                Status = parsedStatus,
+                Priority = parsedPriority
             };
             var result = await Mediator.Send(query);
             return Ok(result);

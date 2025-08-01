@@ -3,6 +3,8 @@ using Microsoft.AspNetCore.Mvc;
 using PropVivo.Application.Common.Base;
 using PropVivo.Application.Dto.Dashboard;
 using PropVivo.Application.Features.Dashboard.GetDashboard;
+using PropVivo.Application.Features.Dashboard.GetSuperiorDashboard;
+using PropVivo.Application.Features.Dashboard.GetStats;
 
 namespace PropVivo.API.Controllers
 {

@@ -39,8 +39,8 @@ C:/Users/propvivo/Downloads/PropVivo Boiler Plate/PropVivo Boiler Plate/PropVivo
 /workspace/PropVivo Boiler Plate Without Keyvalut/PropVivo Boiler Plate/PropVivo/PropVivo.Application/bin/Debug/net8.0/PropVivo.Application.pdb
 /workspace/PropVivo Boiler Plate Without Keyvalut/PropVivo Boiler Plate/PropVivo/PropVivo.Application/bin/Debug/net8.0/PropVivo.Domain.dll
 /workspace/PropVivo Boiler Plate Without Keyvalut/PropVivo Boiler Plate/PropVivo/PropVivo.Application/bin/Debug/net8.0/PropVivo.Domain.pdb
-/workspace/PropVivo Boiler Plate Without Keyvalut/PropVivo Boiler Plate/PropVivo/PropVivo.Application/obj/Debug/net8.0/PropVivo.Application.csproj.CopyComplete
 /workspace/PropVivo Boiler Plate Without Keyvalut/PropVivo Boiler Plate/PropVivo/PropVivo.Application/obj/Debug/net8.0/PropVivo.Application.dll
 /workspace/PropVivo Boiler Plate Without Keyvalut/PropVivo Boiler Plate/PropVivo/PropVivo.Application/obj/Debug/net8.0/refint/PropVivo.Application.dll
 /workspace/PropVivo Boiler Plate Without Keyvalut/PropVivo Boiler Plate/PropVivo/PropVivo.Application/obj/Debug/net8.0/PropVivo.Application.pdb
 /workspace/PropVivo Boiler Plate Without Keyvalut/PropVivo Boiler Plate/PropVivo/PropVivo.Application/obj/Debug/net8.0/ref/PropVivo.Application.dll
+/workspace/PropVivo Boiler Plate Without Keyvalut/PropVivo Boiler Plate/PropVivo/PropVivo.Application/obj/Debug/net8.0/PropVivo.0E36EBCA.Up2Date

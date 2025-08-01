@@ -9,7 +9,6 @@ using PropVivo.Application.Features.Task.UpdateTask;
 using PropVivo.Application.Features.Task.DeleteTask;
 using PropVivo.Application.Features.Task.StartTask;
 using PropVivo.Application.Features.Task.CompleteTask;
-using PropVivo.Application.Common.Base;
 
 namespace PropVivo.API.Controllers
 {

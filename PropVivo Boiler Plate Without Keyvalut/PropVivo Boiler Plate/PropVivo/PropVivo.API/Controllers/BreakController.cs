@@ -4,6 +4,7 @@ using PropVivo.Application.Dto.Break;
 using PropVivo.Application.Features.Break.StartBreak;
 using PropVivo.Application.Features.Break.EndBreak;
 using PropVivo.Application.Features.Break.GetBreakHistory;
+using PropVivo.Application.Features.Break.GetTodayBreaks;
 using PropVivo.Application.Common.Base;
 
 namespace PropVivo.API.Controllers

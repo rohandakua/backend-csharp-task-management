@@ -1,4 +1,4 @@
-﻿using Asp.Versioning;
+using Asp.Versioning;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using PropVivo.Application.Dto.MediaFeature.BulkUploadMedia;
@@ -28,20 +28,20 @@ namespace PropVivo.API.Controllers
             return Ok(response);
         }
 
-        [HttpGet("Download")]
+        [HttpPost("Download")]
         [ProducesResponseType(StatusCodes.Status200OK)]
-        [ProducesResponseType(StatusCodes.Status400BadRequest)]
+        [ProducesResponseType(StatusCodes.Status404NotFound)]
         [ProducesResponseType(StatusCodes.Status500InternalServerError)]
         public async Task<IActionResult> Download([FromQuery] DownloadMediaRequest downloadMediaRequest, CancellationToken cancellationToken)
         {
             var response = await _mediator.Send(downloadMediaRequest, cancellationToken);
-            if (response == null || response.Data == null)
+            if (response == null || response.Data == null || response.Data.Content == null)
             {
-                return StatusCode(StatusCodes.Status500InternalServerError, $"File {response.Data.FilePath} could not be downloaded.");
+                return StatusCode(StatusCodes.Status500InternalServerError, "File could not be downloaded.");
             }
             else
             {
-                return File(response.Data.Content, response.Data.ContentType, response.Data.FileName);
+                return File(response.Data.Content, response.Data.ContentType ?? "application/octet-stream", response.Data.FileName);
             }
         }
 
