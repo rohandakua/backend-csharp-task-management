@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PropVivo.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46a1189df534f8ada0b7bc094d35b3589dcc2372")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5654c8e5d6465f3f59825dc9ec22bb48071c0343")]
 [assembly: System.Reflection.AssemblyProductAttribute("PropVivo.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PropVivo.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
