@@ -55,19 +55,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ROHAN\\.nuget\\packages\\": {}
+    "/home/ubuntu/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ROHAN\\Downloads\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Domain\\PropVivo.Domain.csproj",
+      "projectUniqueName": "/workspace/PropVivo Boiler Plate Without Keyvalut/PropVivo Boiler Plate/PropVivo/PropVivo.Domain/PropVivo.Domain.csproj",
       "projectName": "PropVivo.Domain",
-      "projectPath": "C:\\Users\\ROHAN\\Downloads\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Domain\\PropVivo.Domain.csproj",
-      "packagesPath": "C:\\Users\\ROHAN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ROHAN\\Downloads\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Domain\\obj\\",
+      "projectPath": "/workspace/PropVivo Boiler Plate Without Keyvalut/PropVivo Boiler Plate/PropVivo/PropVivo.Domain/PropVivo.Domain.csproj",
+      "packagesPath": "/home/ubuntu/.nuget/packages/",
+      "outputPath": "/workspace/PropVivo Boiler Plate Without Keyvalut/PropVivo Boiler Plate/PropVivo/PropVivo.Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ROHAN\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/ubuntu/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -90,8 +90,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.300"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -118,7 +117,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/home/ubuntu/.dotnet/sdk/8.0.412/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

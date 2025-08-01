@@ -1,6 +1,7 @@
 using AutoMapper;
 using MediatR;
 using PropVivo.Application.Common.Base;
+using PropVivo.Application.Common.Exceptions;
 using PropVivo.Application.Dto.Dashboard;
 using PropVivo.Application.Repositories;
 using PropVivo.Domain.Entities.User;

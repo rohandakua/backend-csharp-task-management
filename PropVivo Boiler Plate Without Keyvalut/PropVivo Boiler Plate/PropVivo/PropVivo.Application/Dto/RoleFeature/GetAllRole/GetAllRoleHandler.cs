@@ -1,4 +1,4 @@
-﻿using AutoMapper;
+using AutoMapper;
 using MediatR;
 using PropVivo.Application.Common.Base;
 using PropVivo.Application.Common.Exceptions;
@@ -13,7 +13,6 @@ namespace PropVivo.Application.Dto.RoleFeature.GetAllRole
     {
         private readonly IMapper _mapper;
         private readonly IRoleRepository _roleRepository;
-        private readonly string type = nameof(Role);
 
         public GetAllRoleHandler(IRoleRepository roleRepository, IMapper mapper)
         {

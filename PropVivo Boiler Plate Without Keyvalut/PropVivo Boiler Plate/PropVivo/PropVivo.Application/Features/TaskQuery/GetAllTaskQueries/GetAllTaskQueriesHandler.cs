@@ -32,7 +32,7 @@ namespace PropVivo.Application.Features.TaskQuery.GetAllTaskQueries
         {
             var response = new BaseResponse<List<TaskQueryResponse>>();
 
-            List<TaskQuery> taskQueries;
+            List<PropVivo.Domain.Entities.TaskQuery.TaskQuery> taskQueries;
 
             if (!string.IsNullOrEmpty(request.TaskId))
             {
